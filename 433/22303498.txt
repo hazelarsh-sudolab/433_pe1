@@ -1,0 +1,25 @@
+==================================================
+            Students Record Data Entry            
+==================================================
+
+Name: ANAS FAIRUS BIN MOHAMAD ARSHAD | Matric No: 22303498
+User Course of Study: Electronic Engineering
+Targeted Course of Study: Mechatronic Engineering
+==================================================
+
+Student Name: MUHAMMAD AMZAR MUHAIMIN BIN SHAHIFUL 
+Matric Number: 22301471
+--------------------------------------------------
+Student Name: MOHAMAD AYDIN BIN MOHD GHAZALI
+Matric Number: 22300017
+--------------------------------------------------
+Student Name: MUHAMMAD MUIZZ MUGHNY BIN MOHAMAD SHUKOR
+Matric Number: 22301474
+--------------------------------------------------
+Student Name: MUHAMMAD AL NAJMI BIN KHAIRIL YUSRIZAR
+Matric Number: 22305977
+--------------------------------------------------
+Student Name: AMMAR RIFQI BIN FARHAN
+Matric Number: 22301473
+--------------------------------------------------
+==================================================
